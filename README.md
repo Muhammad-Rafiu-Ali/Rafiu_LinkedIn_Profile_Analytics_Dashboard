@@ -31,7 +31,7 @@ This dashboard covers **1 year of LinkedIn profile data**, but my activity was m
 
 
 ### 📷 Dashboard Preview
-![Dashboard Screenshot](add_your_image_here)
+![Dashboard Screenshot](https://github.com/Muhammad-Rafiu-Ali/Rafiu_LinkedIn_Profile_Analytics_Dashboard/blob/main/Screenshot%202025-08-24%20150901.png)
 
 
 
